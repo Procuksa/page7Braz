@@ -1,0 +1,179 @@
+header img{width: 1400px; height: 550px;border-radius: 75px;}
+
+
+body{background-color: black;}
+
+
+
+
+div p{width: 800px;position: relative;left: 300px;margin: 10px;}
+
+div img{position: relative;left:530px;margin: 10px;}
+
+
+h1{text-align: center;color: white;font-size: 64px;font-family: 'M PLUS Rounded 1c', sans-serif;}
+
+main p{font-family: 'M PLUS Rounded 1c', sans-serif;font-size: 25px;color: white;}
+
+nav a{position: absolute;
+    left: -80px;
+    transition: 0.3s;
+    padding:20px;
+    width: 100px;
+    text-decoration: none;
+    font-size:15px;
+    color:white;
+    border-radius: 0 5px 5px 0;}
+    nav a:hover{left:0;
+    }
+    
+    
+    .golovna{
+    top: 610px;
+    background-color: #3D853D;
+   
+    font-size: 16px;
+    font-family: 'M PLUS Rounded 1c', sans-serif; 
+    }
+    .country{top:687px;
+    background-color: #F3D408;
+    font-size: 16px;
+    font-family: 'M PLUS Rounded 1c', sans-serif; 
+    }
+    .buildings{top:764px;
+    background-color: #F7E678;
+    
+    font-family: 'M PLUS Rounded 1c', sans-serif;
+    font-size: 10px; 
+    }
+    .facts{top:844px;
+    background-color: #C9D5FD;
+    font-size: 16px;
+
+    font-family: 'M PLUS Rounded 1c', sans-serif; 
+    }
+    
+
+    .history{top:920px;
+        background-color: #5061C5;
+
+        font-size: 16px;
+        font-family:'M PLUS Rounded 1c', sans-serif; 
+        }
+        .food{top:1000px;
+            background-color: #271B80;
+    
+            font-size: 16px;
+            font-family:'M PLUS Rounded 1c', sans-serif; 
+            }
+    
+
+
+footer {color: white;font-family:'M PLUS Rounded 1c', sans-serif;;background-color: #271B80;position: absolute;
+    top: 1500px;padding: 15px;width: 1400px;border-radius: 25px;font-size: 36px;}
+
+.viber::before{content: url(https://i.postimg.cc/Qt9fDqnN/free-icon-viber-3938054.png);
+
+margin-left:10px;
+
+}
+
+footer a{color:white;
+text-decoration:none;
+position: absolute;
+        top: 50px;
+        left: 1200px;
+        display: inline;}
+
+footer a:hover{color:#2842DE;transition: 1s;}
+
+.ua{position: absolute;
+top: 150px;
+left: 1190px;}
+
+.br{position: absolute;
+    top: 150px;
+    left: 1280px;}
+
+.faroha{position: absolute;
+    top: 700px;
+    left: 425px;
+    opacity: 0.5;
+}
+
+    .sashimi{position: absolute;
+        top: 700px;
+        left: 725px;
+        opacity: 0.5;}
+
+        .ramen{position: absolute;
+            top: 950px;
+            left: 425px;
+            opacity: 0.5;}
+        
+            .soba{position: absolute;
+                top: 950px;
+                left: 725px;
+                opacity: 0.5;}
+
+                .miso-soup{position: absolute;
+                    top: 1200px;
+                    left: 425px;
+                    opacity: 0.5;}
+                
+                    .caiseki{position: absolute;
+                        top: 1200px;
+                        left: 725px;
+                        opacity: 0.5;}
+
+
+
+                        .sushi:hover{
+                            opacity: 1;
+                           transition: 1s;}
+                        
+                            .sashimi:hover{opacity: 1;
+                                transition: 1s;}
+                        
+                                .ramen:hover{opacity: 1;
+                                    transition: 1s;}
+                                
+                                    .soba:hover{opacity: 1;
+                                        transition: 1s;}
+                        
+                                        .miso-soup:hover{opacity: 1;
+                                            transition: 1s;}
+                                        
+                                            .caiseki:hover{opacity: 1;
+                                                transition: 1s;}
+
+
+
+
+    .faroha2{position: absolute;
+             top: 850px;
+            left: 525px;}
+
+            .sashimi2{position: absolute;
+                top: 850px;
+               left: 815px;}
+
+               .ramen2{position: absolute;
+                top: 1100px;
+               left: 525px;}
+
+                     .soba2{position: absolute;
+                         top: 1100px;
+                         left: 805px;}
+
+                         .miso-soup2{position: absolute;
+                            top: 1350px;
+                           left: 515px;}
+
+                                 .caiseki2{position: absolute;
+                                          top: 1350px;
+                                          left: 815px;}
+
+                    
+
+                       
